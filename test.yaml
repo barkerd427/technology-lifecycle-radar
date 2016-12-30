@@ -1,0 +1,28 @@
+Version: 1.0.0
+TechnologyType: Middleware
+Sections:
+  - name: jboss
+    version: 5
+    years:
+      - year: 2017
+        status: red
+  - name: jboss
+    version: 6
+    years:
+      - year: 2017
+        status: yellow
+      - year: 2018
+        status: yellow
+      - year: 2019
+        status: red
+  - name: jboss
+    version: 7
+    years:
+      - year: 2017
+        status: green
+      - year: 2018
+        status: green
+      - year: 2019
+        status: green
+      - year: 2020
+        status: green
